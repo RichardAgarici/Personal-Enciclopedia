@@ -1,1 +1,4 @@
 https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html#equals-java.lang.Object-
+
+
+equal() = este o metoda care verifica daca hashcod-ul instantei care o verificam este egala cu un alt hashcod pe care trebuie sa-l interpreteze
