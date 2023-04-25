@@ -1,4 +1,4 @@
-package HashSet;
+package hashset;
 
 import java.util.HashSet;
 import java.util.Set;
@@ -30,6 +30,7 @@ public final class HeavenlyBody {
         return new HashSet<>(this.satellites);
     }
 
+    @Override
     public boolean equals(Object obj) {
         if (this == obj) {
             return true;
@@ -45,4 +46,9 @@ public final class HeavenlyBody {
         return this.name.equals(objName);
     }
 
+    @Override
+    public int hashCode() {
+        System.out.println("hashcode called");
+        return this.name.hashCode()+57;
+    }
 }
