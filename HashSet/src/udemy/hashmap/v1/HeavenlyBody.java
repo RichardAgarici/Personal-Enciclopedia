@@ -1,4 +1,4 @@
-package hashset.v1;
+package udemy.hashmap.v1;
 
 import java.util.HashSet;
 import java.util.Set;

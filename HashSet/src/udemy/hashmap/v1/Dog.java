@@ -1,4 +1,4 @@
-package hashset.v1;
+package udemy.hashmap.v1;
 
 public class Dog {
     private final String name;

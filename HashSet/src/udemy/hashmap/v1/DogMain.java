@@ -1,4 +1,4 @@
-package hashset.v1;
+package udemy.hashmap.v1;
 
 public class DogMain {
     public static void main(String[] args) {

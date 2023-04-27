@@ -1,4 +1,4 @@
-package hashset.v1;
+package udemy.hashmap.v1;
 
 public class Moon extends HeavenlyBody{
     public Moon(String name, double orbitalPeriod) {

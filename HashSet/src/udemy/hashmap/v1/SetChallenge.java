@@ -1,4 +1,4 @@
-package hashset.v1;
+package udemy.hashmap.v1;
 /*
 Modify the previous HeavenlyBody example so that the HeavenlyBody
 class also has a "bodyType" field. This field will store the

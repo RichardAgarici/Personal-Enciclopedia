@@ -1,4 +1,4 @@
-package hashset.v1;
+package udemy.hashmap.v1;
 
 public class DwarfPlanet extends HeavenlyBody{
     public DwarfPlanet(String name, double orbitalPeriod) {

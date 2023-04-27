@@ -1,4 +1,4 @@
-package hashset.v1;
+package udemy.hashmap.v1;
 
 public class Labrador extends Dog{
     public Labrador(String name) {
