@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="093b0a54-c2e6-4fcf-a60f-5f2dad8a775f" name="Changes" comment="update HashSet folder from Collections module." />
+    <list default="true" id="093b0a54-c2e6-4fcf-a60f-5f2dad8a775f" name="Changes" comment="update HashSet folder from Collections module.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +53,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "C:/Users/laure/Desktop/New folder/Personal-Enciclopedia/Java IO/resources",
+    "last_opened_file_path": "C:/Users/laure/Desktop/New folder/Personal-Enciclopedia/DesignPatterns/src",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -66,11 +68,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\laure\Desktop\New folder\Personal-Enciclopedia\DesignPatterns\src" />
       <recent name="C:\Users\laure\Desktop\New folder\Personal-Enciclopedia\Java IO\resources" />
       <recent name="C:\Users\laure\Desktop\New folder\Personal-Enciclopedia\Threads\src\sda\exemple2" />
       <recent name="C:\Users\laure\Desktop\New folder\Personal-Enciclopedia\Threads\src\sda\exemple1" />
       <recent name="C:\Users\laure\Desktop\New folder\Personal-Enciclopedia\Collections\src\sda\arraylist\exemple1" />
-      <recent name="C:\Users\laure\Desktop\New folder\Personal-Enciclopedia\OOP\src\sda\exemple6withGENERIC" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Notite" />
@@ -168,7 +170,7 @@
       <updated>1682334861605</updated>
       <workItem from="1682334862621" duration="31209000" />
       <workItem from="1682631435088" duration="47000" />
-      <workItem from="1682631530074" duration="3096000" />
+      <workItem from="1682631530074" duration="4025000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1682335678868</created>

@@ -1,0 +1,17 @@
+  /**
+   * Create a class TravelDestination with the following instance variables: cityName - String,
+   * population - long, description - String
+   * 
+   * Create the following methods:
+   * - constructor
+   * - getters/setters
+   * 
+   * Create a class main with a List of TravelDestination as static member
+   * Use static initializer to add elements to the list
+   * 
+   * Use a BufferedWriter which will wrap a FileWriter and write the collection of destinations to a file 
+   * (separate the values with comma)
+   * 
+   * Hint: 
+   * -> Do not forget to proper close the bufferReader
+   */
