@@ -5,58 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="093b0a54-c2e6-4fcf-a60f-5f2dad8a775f" name="Changes" comment="update HashSet folder from Collections module.">
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/advanced/_10_encapsulation/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/advanced/_11_arraylist/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/advanced/_12_linkedlist/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/advanced/_12_linkedlist/QueueExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/advanced/_13_hashmap/part_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/advanced/_13_hashmap/part_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/advanced/_13_hashmap/part_2/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/advanced/_14_exceptions/FirstExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/advanced/_14_exceptions/SecondExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/advanced/_15_enums/part_1/Coffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/advanced/_15_enums/part_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/advanced/_15_enums/part_2/Coffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/advanced/_15_enums/part_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/advanced/_16_hashset/part_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/advanced/_16_hashset/part_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/advanced/_16_hashset/part_2/TravelDestination.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/advanced/_17_generics/FirstExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/advanced/_17_generics/SecondExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/advanced/_18_comparable/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/advanced/_18_comparable/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/advanced/_19_multithreading/FirstExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/advanced/_19_multithreading/SecondExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/advanced/_1_inheritance/part_1/Bicycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/advanced/_1_inheritance/part_1/ElectricalBike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/advanced/_1_inheritance/part_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/advanced/_1_inheritance/part_1/MountainBike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/advanced/_1_inheritance/part_2/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/advanced/_20_static_vs_instance_init/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/advanced/_20_static_vs_instance_init/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/advanced/_2_abstract_classes/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/advanced/_3_inner_classes/Laptop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/advanced/_4_nested_classes/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/advanced/_5_local_classes/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/advanced/_6_anonymous_classes/MyAbstractClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/advanced/_7_interfaces/part_1/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/advanced/_7_interfaces/part_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/advanced/_7_interfaces/part_1/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/advanced/_7_interfaces/part_1/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/advanced/_7_interfaces/part_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/advanced/_7_interfaces/part_2/ReadFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/advanced/_7_interfaces/part_2/ReadFromLocal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/advanced/_7_interfaces/part_2/ReadOverNetwork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/advanced/_8_polymorphism/AdditionOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/advanced/_8_polymorphism/BinaryOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/advanced/_8_polymorphism/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/advanced/_8_polymorphism/SubtractOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/advanced/_9_composition/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/advanced/_9_composition/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/advanced/_9_composition/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/ScannerUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing Exemples/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing Exemples/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing Exemples/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing Exemples/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing Exemples/.idea/sonarlint/issuestore/0/b/0ba1b9c7a4878802f938e331cc2d8a042087ec6b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing Exemples/.idea/sonarlint/issuestore/3/4/34db12ac2c66069b18228f4eaa5820173a0f76ae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing Exemples/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing Exemples/.idea/sonarlint/issuestore/4/e/4ed0121712a84b9c61697d3341b64ccc695995a4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing Exemples/.idea/sonarlint/issuestore/6/2/621d279c67a4f6a14c6f82ef6de8f3f1385d83b1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing Exemples/.idea/sonarlint/issuestore/9/0/90877c721c4ed22cafdaaa54f21e2941f52e72d5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing Exemples/.idea/sonarlint/issuestore/a/1/a11f7b8b61abcbf7e8c0318696e43bc9a33e4a5c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing Exemples/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing Exemples/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing Exemples/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing Exemples/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing Exemples/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing Exemples/src/main/java/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing Exemples/src/main/java/WordUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing Exemples/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing Exemples/src/test/java/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing Exemples/src/test/java/MyFirstJunitClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing Exemples/src/test/java/WordUtilsTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -221,7 +191,7 @@
       <updated>1682334861605</updated>
       <workItem from="1682334862621" duration="31209000" />
       <workItem from="1682631435088" duration="47000" />
-      <workItem from="1682631530074" duration="5022000" />
+      <workItem from="1682631530074" duration="5242000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1682335678868</created>
