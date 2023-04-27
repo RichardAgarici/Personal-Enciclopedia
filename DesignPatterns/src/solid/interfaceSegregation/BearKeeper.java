@@ -1,4 +1,4 @@
-package org.example.solid.interfaceSegregation;
+package solid.interfaceSegregation;
 
 interface BearCleaner {
     void washTheBear();

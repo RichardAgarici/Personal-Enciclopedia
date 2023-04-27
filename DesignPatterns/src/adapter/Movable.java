@@ -1,4 +1,4 @@
-package org.example.adapter;
+package adapter;
 
 public interface Movable {
     //return speed in MPH

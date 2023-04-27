@@ -1,4 +1,4 @@
-package org.example.solid.openClosed;
+package solid.openClosed;
 
 public class Guitar {
     private String make;

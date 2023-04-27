@@ -1,7 +1,4 @@
-package org.example.iterator;
-
-import java.util.ArrayList;
-import java.util.List;
+package iterator;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package org.example.commander;
+package commander;
 
 public class TextFile {
     private String name;

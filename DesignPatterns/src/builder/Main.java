@@ -1,6 +1,4 @@
-package org.example.builder;
-
-import org.example.builder.User;
+package builder;
 
 public class Main {
     public static void main(String[] args) {

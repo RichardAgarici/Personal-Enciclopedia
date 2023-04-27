@@ -1,4 +1,4 @@
-package org.example.adapter;
+package adapter;
 
 public class USCar implements Movable{
 

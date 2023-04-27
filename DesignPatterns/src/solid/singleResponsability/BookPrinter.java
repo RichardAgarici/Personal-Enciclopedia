@@ -1,4 +1,4 @@
-package org.example.solid.singleResponsability;
+package solid.singleResponsability;
 
 public class BookPrinter {
     public void printTextToConsole(String text){

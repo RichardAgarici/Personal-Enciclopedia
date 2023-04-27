@@ -1,4 +1,4 @@
-package org.example.solid;
+package solid;
 
 import org.example.solid.singleResponsability.Book;
 import org.example.solid.singleResponsability.BookPrinter;

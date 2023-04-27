@@ -1,4 +1,4 @@
-package org.example.template;
+package template;
 
 public abstract class Game {
     abstract void initialize();

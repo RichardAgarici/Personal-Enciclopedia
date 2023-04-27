@@ -1,4 +1,4 @@
-package org.example.iterator;
+package iterator;
 
 public class NameRepository implements Container{
     private String names[];

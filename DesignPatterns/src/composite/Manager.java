@@ -1,4 +1,4 @@
-package org.example.composite;
+package composite;
 
 public class Manager implements Employee {
     private String name;

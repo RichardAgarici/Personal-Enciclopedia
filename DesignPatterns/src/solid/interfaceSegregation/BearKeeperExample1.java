@@ -1,4 +1,4 @@
-package org.example.solid.interfaceSegregation;
+package solid.interfaceSegregation;
 
 public class BearKeeperExample1 implements BearCleaner, BearFeeder {
     @Override

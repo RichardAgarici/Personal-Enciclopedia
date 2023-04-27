@@ -1,4 +1,4 @@
-package org.example.solid.dependencyInversionPrinciple;
+package solid.dependencyInversionPrinciple;
 
 public class StandardMonitor implements Monitor {
 }

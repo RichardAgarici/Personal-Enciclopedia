@@ -1,4 +1,4 @@
-package org.example.commander;
+package commander;
 
 public interface TextFileOperation {
     String execute();

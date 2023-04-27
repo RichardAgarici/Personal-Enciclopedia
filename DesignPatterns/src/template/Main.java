@@ -1,4 +1,4 @@
-package org.example.template;
+package template;
 
 public class Main {
     private boolean valid;

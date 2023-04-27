@@ -1,4 +1,4 @@
-package org.example.template;
+package template;
 
 public class HandballGame extends Game{
     @Override

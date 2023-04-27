@@ -1,4 +1,4 @@
-package org.example.proxy;
+package proxy;
 
 public class ExpensiveObjectImpl implements ExpensiveObject{
 

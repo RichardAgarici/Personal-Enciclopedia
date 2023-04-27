@@ -1,4 +1,4 @@
-package org.example.builder;
+package builder;
 
 public class User {
     private String firstName; //required

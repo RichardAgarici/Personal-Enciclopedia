@@ -1,4 +1,4 @@
-package org.example.adapter;
+package adapter;
 
 public class MovableAdapterImpl implements MovableAdapter{
     private Movable usCars;

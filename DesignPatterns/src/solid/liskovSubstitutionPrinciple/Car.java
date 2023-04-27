@@ -1,4 +1,4 @@
-package org.example.solid.liskovSubstitutionPrinciple;
+package solid.liskovSubstitutionPrinciple;
 
 public interface Car {
     void turnOnEngine();

@@ -1,4 +1,4 @@
-package org.example.solid.liskovSubstitutionPrinciple;
+package solid.liskovSubstitutionPrinciple;
 
 public class Engine {
     private String name;

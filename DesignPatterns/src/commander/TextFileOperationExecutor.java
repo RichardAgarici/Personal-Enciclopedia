@@ -1,4 +1,4 @@
-package org.example.commander;
+package commander;
 
 import java.util.ArrayList;
 import java.util.List;

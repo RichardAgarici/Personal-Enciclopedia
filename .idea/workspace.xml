@@ -4,48 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="093b0a54-c2e6-4fcf-a60f-5f2dad8a775f" name="Changes" comment="update HashSet folder from Collections module.">
-      <change afterPath="$PROJECT_DIR$/Collections/src/sda/linkedlist/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections/src/sda/linkedlist/WeaponMagazine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections/src/sda/lists/exemple1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections/src/sda/lists/exemple1/ProductRatings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections/src/sda/treemap/exemple1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exceptions/Exceptions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exceptions/src/sda/exemple1/Basket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exceptions/src/sda/exemple1/BasketEmptyException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exceptions/src/sda/exemple1/BasketFullException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exceptions/src/sda/exemple1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java IO/Java IO.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java IO/src/sda/file/exemple1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java IO/src/sda/file/exemple2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/exemple1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/exemple1/Parcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/exemple1/ParcelValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/exemple2withINTERFACE/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/exemple2withINTERFACE/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/exemple2withINTERFACE/Movable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/exemple2withINTERFACE/MoveDirection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/exemple2withINTERFACE/Point2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/exemple2withINTERFACE/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/exemple2withINTERFACE/Resizable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/exemple2withINTERFACE/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/exemple3withENUM/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/exemple3withENUM/CarService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/exemple3withENUM/EngineType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/exemple3withENUM/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/exemple3withENUM/Manufacturer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/exemple4withENUM/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/exemple4withENUM/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/exemple5withABSTRACTCLASS/Fillable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/exemple5withABSTRACTCLASS/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/exemple5withABSTRACTCLASS/Qube.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/exemple5withABSTRACTCLASS/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/exemple5withABSTRACTCLASS/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/sda/exemple5withABSTRACTCLASS/Shape3D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="093b0a54-c2e6-4fcf-a60f-5f2dad8a775f" name="Changes" comment="update HashSet folder from Collections module." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +51,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "C:/Users/laure/Desktop/New folder/Personal-Enciclopedia/Exceptions/src/sda/exemple1",
+    "last_opened_file_path": "C:/Users/laure/Desktop/New folder/Personal-Enciclopedia/Java IO/resources",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -107,11 +66,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\laure\Desktop\New folder\Personal-Enciclopedia\Exceptions\src\sda\exemple1" />
-      <recent name="C:\Users\laure\Desktop\New folder\Personal-Enciclopedia\OOP\src\sda\exemple5withABSTRACTCLASS" />
-      <recent name="C:\Users\laure\Desktop\New folder\Personal-Enciclopedia\OOP\src\sda\exemple4withENUM" />
-      <recent name="C:\Users\laure\Desktop\New folder\Personal-Enciclopedia\OOP\src\sda\exemple2withINTERFACE" />
-      <recent name="C:\Users\laure\Desktop\New folder\Personal-Enciclopedia\OOP\src\sda\exemple1" />
+      <recent name="C:\Users\laure\Desktop\New folder\Personal-Enciclopedia\Java IO\resources" />
+      <recent name="C:\Users\laure\Desktop\New folder\Personal-Enciclopedia\Threads\src\sda\exemple2" />
+      <recent name="C:\Users\laure\Desktop\New folder\Personal-Enciclopedia\Threads\src\sda\exemple1" />
+      <recent name="C:\Users\laure\Desktop\New folder\Personal-Enciclopedia\Collections\src\sda\arraylist\exemple1" />
+      <recent name="C:\Users\laure\Desktop\New folder\Personal-Enciclopedia\OOP\src\sda\exemple6withGENERIC" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Notite" />
@@ -209,7 +168,7 @@
       <updated>1682334861605</updated>
       <workItem from="1682334862621" duration="31209000" />
       <workItem from="1682631435088" duration="47000" />
-      <workItem from="1682631530074" duration="2799000" />
+      <workItem from="1682631530074" duration="3096000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1682335678868</created>

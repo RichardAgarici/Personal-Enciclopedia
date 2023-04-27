@@ -1,4 +1,4 @@
-package org.example.decorator;
+package decorator;
 
 public abstract class TreeDecorator implements ChristmasTree {
     private ChristmasTree christmasTree;

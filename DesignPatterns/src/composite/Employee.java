@@ -1,4 +1,4 @@
-package org.example.composite;
+package composite;
 
 public interface Employee {
     void showEmployeeDetails();

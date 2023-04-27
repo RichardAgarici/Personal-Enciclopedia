@@ -1,4 +1,4 @@
-package org.example.solid.dependencyInversionPrinciple;
+package solid.dependencyInversionPrinciple;
 
 public interface Keyboard {
     //fields

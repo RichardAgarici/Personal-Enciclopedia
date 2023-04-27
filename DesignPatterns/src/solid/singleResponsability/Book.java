@@ -1,4 +1,4 @@
-package org.example.solid.singleResponsability;
+package solid.singleResponsability;
 
 public class Book {
     private String name;

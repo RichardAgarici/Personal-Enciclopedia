@@ -1,4 +1,4 @@
-package org.example.decorator;
+package decorator;
 
 public class BubbleLights extends TreeDecorator{
 

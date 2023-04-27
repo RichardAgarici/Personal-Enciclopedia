@@ -1,4 +1,4 @@
-package org.example.composite;
+package composite;
 
 public class Company {
     public static void main(String[] args) {
