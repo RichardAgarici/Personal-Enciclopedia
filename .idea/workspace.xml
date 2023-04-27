@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="093b0a54-c2e6-4fcf-a60f-5f2dad8a775f" name="Changes" comment="update HashSet folder from Collections module.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HashSet/src/hashset/v1/SetMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/HashSet/src/hashset/v1/SetMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HashSet/src/hashset/v1/DwarfPlanet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HashSet/src/hashset/v1/Moon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HashSet/src/hashset/v1/Planet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HashSet/src/hashset/v1/HeavenlyBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/HashSet/src/hashset/v1/HeavenlyBody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HashSet/src/hashset/v1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/HashSet/src/hashset/v1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HashSet/src/hashset/v1/SetChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/HashSet/src/hashset/v1/SetChallenge.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +81,7 @@
       <recent name="$PROJECT_DIR$/Notite" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SetMain">
+  <component name="RunManager" selected="Application.hashset.v1.Main">
     <configuration name="DogMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hashset.DogMain" />
       <module name="Collections" />
@@ -117,8 +121,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="hashset.v1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hashset.v1.Main" />
+      <module name="Collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hashset.v1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.hashset.v1.Main" />
         <item itemvalue="Application.SetMain" />
         <item itemvalue="Application.DogMain" />
         <item itemvalue="Application.Main" />
@@ -133,7 +151,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682334861605</updated>
-      <workItem from="1682334862621" duration="17401000" />
+      <workItem from="1682334862621" duration="22138000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1682335678868</created>
