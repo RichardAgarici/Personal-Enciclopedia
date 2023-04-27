@@ -1,1 +1,2 @@
 Collections.unmodifiableMap(list); ajuta foarte mult la viteza de iterare a map
+Ss
