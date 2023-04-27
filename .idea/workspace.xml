@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="093b0a54-c2e6-4fcf-a60f-5f2dad8a775f" name="Changes" comment="update HashSet folder from Collections module.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HashSet/src/hashset/v1/HeavenlyBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/HashSet/src/hashset/v1/HeavenlyBody.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HashSet/src/hashset/v1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/HashSet/src/hashset/v1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HashSet/src/hashset/v1/Planet.java" beforeDir="false" afterPath="$PROJECT_DIR$/HashSet/src/hashset/v1/Planet.java" afterDir="false" />
-    </list>
+    <list default="true" id="093b0a54-c2e6-4fcf-a60f-5f2dad8a775f" name="Changes" comment="update HashSet folder from Collections module." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +40,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Os2F54aofkbELZ0YBNDmp6MmUX" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -79,7 +76,7 @@
       <recent name="$PROJECT_DIR$/Notite" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.hashset.v1.Main">
+  <component name="RunManager" selected="Application.hashset.v1.udemy.tim.Main">
     <configuration name="DogMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hashset.DogMain" />
       <module name="Collections" />
@@ -107,11 +104,11 @@
       </method>
     </configuration>
     <configuration name="SetMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hashset.v1.SetMain" />
+      <option name="MAIN_CLASS_NAME" value="hashset.v1.udemy.tim.SetMain" />
       <module name="Collections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hashset.v1.*" />
+          <option name="PATTERN" value="hashset.v1.udemy.tim.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hashset.v1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hashset.v1.Main" />
+    <configuration name="hashset.v1.udemy.tim.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hashset.v1.udemy.tim.Main" />
       <module name="Collections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hashset.v1.*" />
+          <option name="PATTERN" value="hashset.v1.udemy.tim.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,7 +131,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.hashset.v1.Main" />
+        <item itemvalue="Application.hashset.v1.udemy.tim.Main" />
         <item itemvalue="Application.SetMain" />
         <item itemvalue="Application.DogMain" />
         <item itemvalue="Application.Main" />
@@ -149,7 +146,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682334861605</updated>
-      <workItem from="1682334862621" duration="25098000" />
+      <workItem from="1682334862621" duration="31209000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1682335678868</created>
