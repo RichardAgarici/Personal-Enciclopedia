@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="093b0a54-c2e6-4fcf-a60f-5f2dad8a775f" name="Changes" comment="update HashSet folder from Collections module.">
-      <change afterPath="$PROJECT_DIR$/HashSet/src/hashset/v1/DwarfPlanet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HashSet/src/hashset/v1/Moon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HashSet/src/hashset/v1/Planet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HashSet/src/hashset/v1/HeavenlyBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/HashSet/src/hashset/v1/HeavenlyBody.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HashSet/src/hashset/v1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/HashSet/src/hashset/v1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HashSet/src/hashset/v1/SetChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/HashSet/src/hashset/v1/SetChallenge.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +146,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682334861605</updated>
-      <workItem from="1682334862621" duration="22138000" />
+      <workItem from="1682334862621" duration="22455000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1682335678868</created>

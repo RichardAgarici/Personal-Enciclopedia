@@ -95,13 +95,20 @@ public class Main {
                 System.out.println("\t" + moon.getName());
             }
 
-            HeavenlyBody pluto = new Planet("Pluto", 842);
+            HeavenlyBody pluto = new DwarfPlanet("Pluto", 842);
             planets.add(pluto);
 
             for(HeavenlyBody planet : planets) {
                 System.out.println(planet);
 //                System.out.println(planet.getName() + ": " + planet.getOrbitalPeriod());
             }
+
+            HeavenlyBody earth1 = new Planet("Earth", 365);
+            HeavenlyBody earth2 = new Planet("Earth", 365);
+            System.out.println(earth1.equals(earth2));
+            System.out.println(earth2.equals(earth1));
+            System.out.println(earth1.equals(pluto));
+            System.out.println(pluto.equals(earth1));
 
             Object o = new Object();
             o.equals(o);
