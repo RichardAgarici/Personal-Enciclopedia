@@ -5,33 +5,46 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="093b0a54-c2e6-4fcf-a60f-5f2dad8a775f" name="Changes" comment="update HashSet folder from Collections module.">
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections/src/sda/map/exemple1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections/src/sda/map/exemple2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections/src/sda/map/exemple3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections/src/sda/map/exemple3/Storage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections/src/sda/streams/exemple1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections/src/sda/streams/exemple2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/src/sda/linkedlist/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/src/sda/linkedlist/WeaponMagazine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/src/sda/lists/exemple1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/src/sda/lists/exemple1/ProductRatings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/src/sda/treemap/exemple1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exceptions/Exceptions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exceptions/src/sda/exemple1/Basket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exceptions/src/sda/exemple1/BasketEmptyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exceptions/src/sda/exemple1/BasketFullException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exceptions/src/sda/exemple1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java IO/Java IO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java IO/src/sda/file/exemple1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java IO/src/sda/file/exemple2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/sda/exemple1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/sda/exemple1/Parcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/sda/exemple1/ParcelValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/sda/exemple2withINTERFACE/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/sda/exemple2withINTERFACE/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/sda/exemple2withINTERFACE/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/sda/exemple2withINTERFACE/MoveDirection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/sda/exemple2withINTERFACE/Point2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/sda/exemple2withINTERFACE/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/sda/exemple2withINTERFACE/Resizable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/sda/exemple2withINTERFACE/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/sda/exemple3withENUM/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/sda/exemple3withENUM/CarService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/sda/exemple3withENUM/EngineType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/sda/exemple3withENUM/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/sda/exemple3withENUM/Manufacturer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/sda/exemple4withENUM/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/sda/exemple4withENUM/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/sda/exemple5withABSTRACTCLASS/Fillable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/sda/exemple5withABSTRACTCLASS/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/sda/exemple5withABSTRACTCLASS/Qube.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/sda/exemple5withABSTRACTCLASS/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/sda/exemple5withABSTRACTCLASS/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/sda/exemple5withABSTRACTCLASS/Shape3D.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HashSet/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HashSet/Collections.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Collections.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HashSet/src/udemy/hashmap/v1/Challenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/src/udemy/hashmap/v1/Challenge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HashSet/src/udemy/hashmap/v1/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/src/udemy/hashmap/v1/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HashSet/src/udemy/hashmap/v1/DogMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/src/udemy/hashmap/v1/DogMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HashSet/src/udemy/hashmap/v1/DwarfPlanet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/src/udemy/hashmap/v1/DwarfPlanet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HashSet/src/udemy/hashmap/v1/HeavenlyBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/src/udemy/hashmap/v1/HeavenlyBody.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HashSet/src/udemy/hashmap/v1/Labrador.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/src/udemy/hashmap/v1/Labrador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HashSet/src/udemy/hashmap/v1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/src/udemy/hashmap/v1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HashSet/src/udemy/hashmap/v1/Moon.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/src/udemy/hashmap/v1/Moon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HashSet/src/udemy/hashmap/v1/Planet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/src/udemy/hashmap/v1/Planet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HashSet/src/udemy/hashmap/v1/SetChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/src/udemy/hashmap/v1/SetChallenge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HashSet/src/udemy/hashmap/v1/SetMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/src/udemy/hashmap/v1/SetMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HashSet/src/udemy/linked_hashmap/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/src/udemy/linked_hashmap/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HashSet/src/udemy/linked_hashmap/StockItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/src/udemy/linked_hashmap/StockItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HashSet/src/udemy/linked_hashmap/StockList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/src/udemy/linked_hashmap/StockList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +92,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "C:/Users/laure/Desktop/New folder/Personal-Enciclopedia/Collections/src/sda/map/exemple3",
+    "last_opened_file_path": "C:/Users/laure/Desktop/New folder/Personal-Enciclopedia/Exceptions/src/sda/exemple1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -94,35 +107,25 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\laure\Desktop\New folder\Personal-Enciclopedia\Collections\src\sda\map\exemple3" />
-      <recent name="C:\Users\laure\Desktop\New folder\Personal-Enciclopedia\Collections\src\sda\map\exemple1" />
-      <recent name="C:\Users\laure\Desktop\New folder\Personal-Enciclopedia\Streams\src\sda\exemple1" />
-      <recent name="C:\Users\laure\Desktop\New folder\Personal-Enciclopedia\Streams\src\sda" />
-      <recent name="$PROJECT_DIR$/HashSet/src/HashSet" />
+      <recent name="C:\Users\laure\Desktop\New folder\Personal-Enciclopedia\Exceptions\src\sda\exemple1" />
+      <recent name="C:\Users\laure\Desktop\New folder\Personal-Enciclopedia\OOP\src\sda\exemple5withABSTRACTCLASS" />
+      <recent name="C:\Users\laure\Desktop\New folder\Personal-Enciclopedia\OOP\src\sda\exemple4withENUM" />
+      <recent name="C:\Users\laure\Desktop\New folder\Personal-Enciclopedia\OOP\src\sda\exemple2withINTERFACE" />
+      <recent name="C:\Users\laure\Desktop\New folder\Personal-Enciclopedia\OOP\src\sda\exemple1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Notite" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="sda.file.exemple2" />
+      <recent name="sda.file.exemple1" />
+      <recent name="sda.treemap.exemple1" />
       <recent name="sda.map.exemple2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.sda.streams.exemple2.Main">
+  <component name="RunManager" selected="Application.sda.treemap.exemple1.Main">
     <configuration name="DogMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hashset.DogMain" />
-      <module name="Collections" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hashset.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hashset.Main" />
       <module name="Collections" />
       <extension name="coverage">
         <pattern>
@@ -173,13 +176,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="sda.treemap.exemple1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sda.treemap.exemple1.Main" />
+      <module name="Collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sda.treemap.exemple1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.sda.treemap.exemple1.Main" />
         <item itemvalue="Application.sda.streams.exemple2.Main" />
         <item itemvalue="Application.hashset.v1.udemy.tim.Main" />
         <item itemvalue="Application.SetMain" />
         <item itemvalue="Application.DogMain" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +209,7 @@
       <updated>1682334861605</updated>
       <workItem from="1682334862621" duration="31209000" />
       <workItem from="1682631435088" duration="47000" />
-      <workItem from="1682631530074" duration="1642000" />
+      <workItem from="1682631530074" duration="2799000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1682335678868</created>
