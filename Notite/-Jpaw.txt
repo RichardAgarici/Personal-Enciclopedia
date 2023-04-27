@@ -1,0 +1,13 @@
+-Jpaw
+-Java reflection
+-Optional class
+-Enums
+-Jakarta
+-Obiecte tip wrapper : scopul este ca are niste functii in plus. 
+-Iterator. iterator()
+-Vector?
+-dependency injection. noi injectam interfata
+-Kubernetes
+-Scrum
+-SOAP
+-PostgreSQL

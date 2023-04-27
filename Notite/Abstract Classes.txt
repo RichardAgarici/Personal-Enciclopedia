@@ -1,0 +1,37 @@
+Abstract Classes:
+
+- trebuie trecuta abnotare musai : public abstract class "";
+
+- valorile sunt statice
+
+- poate avea constructor. getter. setter. toString()
+
+- clasele abstracte se pot extinde una pe alta la nesfarsit pana ajunge la o clasa normala. daca a 2 clasa abstracta a overrightuit primele metode a 3 nu mai trebuie sa o faca din nou.
+
+- se pot defini metode fara parametri si fara corp. ca la interfete. se pot lua ca niste entitati omniprezente care trebuie sa exista da nu exista.
+
+- motodele abstracte definite in clasele abstracte, nu pot fi definite
+
+- TREBUIE SA FIE MUSAI INHERITATA DE CATRE O CLASA COPIL. EX: ABSTRACT ANIMAL. PUBLIC CLASS DOG IMPLEMENTS ANIMAL = > DOG TREBUIE SA IA CEL PUTIN CARACTERISTILE CLASEI ABSTRACTE ANIMAL.
+
+Abstract class: is a restricted class that cannot be used to create objects (to access it, it must be inherited from another class). Abstract method: can only be used in an abstract class, and it does not have a body. The body is provided by the subclass (inherited from)
+
+Abstract Class in Java does the process of hiding the intricate code implementation details from the user and just provides the user with the necessary information. This phenomenon is called Data Abstraction in Object-Oriented Programming (Java).
+
+An abstract class is a good choice if we are using the inheritance concept since it provides a common base class implementation to derived classes. An abstract class is also good if we want to declare non-public members. In an interface, all methods must be public.
+
+Rules for Using Abstract Class in Java
+You have to use the keyword abstract.
+You cannot instantiate an abstract class.
+An abstract class can contain both abstract and non-abstract methods.
+You can include non-abstract final methods (a method which cannot be overriden) as well in your abstract class.
+
+The Abstract class and Interface both are used to have abstraction. An abstract class contains an abstract keyword on the declaration whereas an Interface is a sketch that is used to implement a class.
+
+What is the difference between static and abstract class?
+A static variable is a class variable. A single copy of the static variable is created for all instances of the class. It can be directly accessed in a static method. An abstract class in Java is a class that cannot be instantiated
+
+-We cannot instanciate an abstract class whatsoever
+
+-we can use abstract classes when you need to implement clases that behave almost the same as the previous classes
+

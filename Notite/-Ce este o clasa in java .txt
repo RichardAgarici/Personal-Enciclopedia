@@ -1,0 +1,7 @@
+-Ce este o clasa in java ?
+un pattern, ce reprezinta o structura de date. un blueprint.
+
+-Care este dif intre o clasa si obiect? 
+obiectul este o instanta a unei clase
+
+-

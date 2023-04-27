@@ -1,0 +1,8 @@
+Java Faker :
+
+============================================================================================
+https://javadoc.io/doc/com.github.javafaker/javafaker/latest/com/github/javafaker/Faker.html
+
+public class Faker extends java.lang.Object. Provides utility methods for generating fake strings, such as names, phone numbers, addresses. generate random strings with given patterns.
+============================================================================================
+Three useful methods are Letterify, Numberify, and Bothify. Letterify helps to generate random sequences of alphabetic characters. Next, Numerify simply generates numeric sequences. Finally, Bothify is a combination of the two and can create random alphanumeric sequences – useful for mocking things like ID strings.15 oct. 2019

@@ -1,0 +1,7 @@
+-Cuvantul private in interfata este inutil, deoarece oricum se implementeaza de la sine public.
+-O clasa e obligata sa scrie Implements daca vrea sa accepte metodele din interfata.
+-Daca initiem o variabila cu nume de interfata de genu : Itelephone model. model=new (orice clasa care implementeaza aceasta interfata)
+-List/LinkedList sunt interfete.
+-List/LinkedList se initiaza cu ArrayList. ArrayList preia toate carectericticile care exista in contractul interfata List/LinkedList.
+-O clasa poate implementa cate interfete vrea, dar poate extinde un singur parinte.
+-interfetele nu pot avea constructori.

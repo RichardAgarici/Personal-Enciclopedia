@@ -1,0 +1,21 @@
+Java Generics : 
+
+
+What is autoboxing in Java?
+Autoboxing is the automatic conversion that the Java compiler makes between the primitive types and their corresponding object wrapper classes. For example, converting an int to an Integer, a double to a Double, and so on. If the conversion goes the other way, this is called unboxing.
+
+-We should always declair a generic in a ArrayList<> otherwise we can leave code bugs
+
+
+========================================================================================
+What is a raw type in Java?
+A raw type is the name of a generic class or interface without any type arguments. For example, given the generic Box class: public class Box<T> { public void set(T t) { /* ... */ } // ... }
+
+When to use raw type Java?
+List<Integer> is a parameterized type of interface List<E> while List is a raw type of interface List<E>. Raw types can be useful when interfacing with non-generic legacy code.
+...
+This is because:
+They are not expressive.
+They lack type safety, and.
+Problems are observed at run time and not at compile time.
+==========================================================================================

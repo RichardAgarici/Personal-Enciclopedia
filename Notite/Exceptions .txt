@@ -1,0 +1,13 @@
+Exceptions :
+
+-Exceptions e parintele suprem.
+
+-Sunt checked/Unchecked.
+
+-Runtime Exception : se emite doar in momentul in care ruleaza aplicatia.
+
+-Error de memorie. OutOfMemory exception
+
+-Clasa comuna a erorilor si exceptilor : Throwable.
+
+-Daca avem un array fara generic declarat ArrayList simplu si introduce in array integer spre exemplu ulterior introducem si un string, compilerul va emite o eroare .ClassCastException 

@@ -1,0 +1,12 @@
+Packages rules :
+
+if you want to use a class from 4,5 different packages you have to implement the first one and the "summon the other packages"
+
+- awt* - abstract window toolkit
+The Abstract Window Toolkit (AWT) is Java's original platform-dependent windowing, graphics, and user-interface widget toolkit, preceding Swing. The AWT is part of the Java Foundation Classes (JFC) — the standard API for providing a graphical user interface (GUI) for a Java program.
+
+-daca in momentul in care creeam o clasa vrem sa cream si un pachet se pot face concomitent intr-o singura propozitie, fiecare cuvant urmat de un punct ex :com.ex.por.game.Java unde Java este numele clasei respectiv va fi ulterior o clasa, restul cuvintelor reprezinta subfoldere atasate proiectului in sine
+
+-Scope.
+
+-Enclosing blocks.

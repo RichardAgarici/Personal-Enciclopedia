@@ -1,0 +1,25 @@
+Inner Classes :
+
+- Daca folosim cuvantul " this " intr-un inneclass, se refera la parametrul din interiorul acoladei si nu la instanta mentionata in clasa principala
+
+- Adnotare corecta : Clasa.InnerClasa.Metoda
+
+- Daca scriem numele innerclase dar doar daca este intr-o clasa statica, aceasta se va procesa in intelijj ca : Clasa.InnerClass 
+
+- Innerclasele sunt mereu private.
+
+- In innerclase se pot invoca metode din clasa principala si viceversa.
+
+- Exista mai multe tipuri de inner class : local, anonimous.
+
+- local class, sunt introduse pentru o anumita functie in particular si pot fi folosite doare in acea functie. e foarte bun la incapsulare.
+
+- annonymous class :
+Anonymous classes enable you to make your code more concise. They enable you to declare and instantiate a class at the same time. They are like local classes except that they do not have a name. Use them if you need to use a local class only once.
+
+-What is anonymous class explain with example?
+It is an inner class without a name and for which only a single object is created. An anonymous inner class can be useful when making an instance of an object with certain “extras” such as overriding methods of a class or interface, without having to actually subclass a class
+
+-Anonymous object in Java means creating an object without any reference variable. Generally, when creating an object in Java, you need to assign a name to the object. But the anonymous object in Java allows you to create an object without any name assigned to that object.
+
+-Annoynimous classes can be replaced with lampda expressions.

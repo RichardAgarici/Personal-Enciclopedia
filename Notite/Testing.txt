@@ -1,0 +1,33 @@
+Testing:
+
+What is an assertion in Java?
+An assertion is a statement in the JavaTM programming language that enables you to test your assumptions about your program. For example, if you write a method that calculates the speed of a particle, you might assert that the calculated speed is less than the speed of light.
+
+When to use assert in Java?
+You can use an assert to check if your logical assumption is correct. You can also use assert statements to check if the control flow is correct or not. For example, if you have a function that returns a value, you may want to put an assert statement. However, you may get a 'non-reachable' code error.
+
+- @BeforeEach is used to signal that the annotated method should be executed before each @Test method in the current test class.
+ 
+-@BeforeEach - Use to run a common code before( eg setUp) each test method execution. analogous to JUnit 4's @Before. @AfterEach - Use to run a common code after( eg tearDown) each test method execution. analogous to JUnit 4's @After.
+
+-@RepeatedTest(n)-n numarul de repetari. se repete de cate n-uri punem noi.
+
+-@BeforeAll:
+
+-@AfterAll:
+
+-@Test: metoda se transforma intr-o metoda de test. daca sunt 5 teste, astea se executa random. indiferente de ordinea scrisa in cod
+
+-@DisplayName: 
+
+-Se pot testa exceptii
+
+-@AfterEach: se genereaza liniile de cod din metoda dupa fiecare @Test
+
+-@TestMethodOrder(MethodOrderer.Random) - este adnotarea deasupra clasei DEFAULT care este responsabila de rularea random a testelor. aceasta metoda poate fi modificata sa ne execute cum dorim noi testele.
+
+-@TestMethodOrder(MethodOrderer.OrderAnnotation.class) - ordoneaza testele cum dorim noi. trebuie scrisa si @Order(n) in functie de care test dorim sa-l executam.
+
+- @ParameterizedTest - se foloseste pentru a testa aceeasi metoda cu inputuri diferite de fiecare data.
+
+
