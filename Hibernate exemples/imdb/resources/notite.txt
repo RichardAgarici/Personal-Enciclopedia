@@ -1,2 +1,3 @@
 aceasta varianta a fost facuta fara spring. pe varianta veche.
 este pur exempleficativ
+VERIFICA ONEDRIVE PENTRU SCHEME
